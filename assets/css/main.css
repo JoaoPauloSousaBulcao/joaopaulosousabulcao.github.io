@@ -1,0 +1,26 @@
+body{
+    overflow-x: hidden;
+    background-image: url("../img/background--desktop.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin: 30px;
+    padding-top: 50px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: black;
+}
+
+.dados--pessoais{
+    margin: 120px 50px;
+}
+
+.foto--curriculo{
+    width: 60%;
+    border-radius: 50%;
+    margin: 10%;
+}
