@@ -48,6 +48,10 @@ hr{
         font-size: 24px;
 }
 
+.paragraph{
+    font-size: 16px;
+}
+
 @media screen and (max-width: 700px) {
     body{
         background-image: url("../img/background--mobile.jpg");
@@ -85,6 +89,6 @@ hr{
     }
     
     .heading-4{
-            font-size: 20px;
+            font-size: 18px;
     }
 }
