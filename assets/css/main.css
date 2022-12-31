@@ -52,6 +52,10 @@ hr{
     font-size: 16px;
 }
 
+.item--lista{
+    font-size: 22px;
+}
+
 @media screen and (max-width: 700px) {
     body{
         background-image: url("../img/background--mobile.jpg");
