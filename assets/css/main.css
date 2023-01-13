@@ -52,6 +52,19 @@ hr{
     font-size: 16px;
 }
 
+.card{
+    width: 100%;
+    margin-top: 10px;
+}
+
+<<<<<<< HEAD
+
+=======
+.item--lista{
+    font-size: 22px;
+>>>>>>> 446f9380e89fb24c2d2217fff25272312093ebea
+}
+
 @media screen and (max-width: 700px) {
     body{
         background-image: url("../img/background--mobile.jpg");
